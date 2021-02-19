@@ -1,0 +1,32 @@
+body{
+    font-family:20px Arial, Helvetica, sans-serif
+}
+
+.navbar{
+    background: red;
+    color: blueviolet;
+}
+#quemsomos{
+    background: #AFE1DC;
+    color: #fff;
+}
+.margin{
+    /* padding-top: 30px; */
+    padding-bottom:50px;
+    padding-top: 10px;
+}
+/* #parceiros{
+    padding-top: 10px;
+} */
+.parceiros{
+    background:#AFB4E1;
+    color: #fff;
+}
+.marginbottom{
+    bottom: 1515px;
+}
+.br-footer{
+    background-color:#000;
+    color: #fff;
+    font-size: 1.5rem;
+}
